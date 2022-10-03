@@ -1,0 +1,18 @@
+.breadcrumbs {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  padding: 0;
+}
+
+.breadcrumbs li::after {
+  content: "-";
+  margin: 0 1rem;
+}
+
+.breadcrumbs li:last-child::after {
+  display: none;
+}
+
+.container {
+}
