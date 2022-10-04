@@ -18,6 +18,7 @@ yarn dev
 1. W plikach można znaleźć kilka "TODO". Uzupełnij je według opisu zawartego w komentarzu :)
 2. Możesz dodać wybrane przez siebie biblioteki
 3. Załączony kod możesz dowolnie modyfikować/refactorować
+4. Dodaj style do strony, tak aby poprawić jej czytelność
 
 ## Pokaż nam swoje umiejętności w zakresie:
 
@@ -26,3 +27,4 @@ yarn dev
 3. Korzystania i dodawania nowych hooków
 4. Pobierania danych
 5. Poprawnego otypowania brakujących funkcji
+6. Znajomość CSS i metody zarządzania klasami
