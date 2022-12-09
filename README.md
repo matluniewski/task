@@ -1,7 +1,7 @@
 ## Uruchomienie
 
 ```
-git clone https://github.com/b-pedzik/task.git task
+git clone https://github.com/matluniewski/task.git
 cd task
 yarn install
 yarn dev
